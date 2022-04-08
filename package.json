@@ -2,6 +2,10 @@
   "name": "who-own-that-npm-account",
   "version": "1.0.0",
   "description": "CLI to find out the owner of a given NPM account",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/m0o0scar/Who-Own-That-NPM-Account.git"
+  },
   "main": "index.js",
   "license": "MIT",
   "bin": {
