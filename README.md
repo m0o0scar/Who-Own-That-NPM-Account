@@ -1,4 +1,4 @@
-# Who Own That NPM Account??
+# Who Owns That NPM Account??
 
 ## Getting Started
 
