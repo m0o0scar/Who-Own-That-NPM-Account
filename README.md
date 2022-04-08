@@ -9,3 +9,5 @@ npx whoownthatnpmaccount -a foo -e a@bar.com,b@bar.com
 # Get help
 npx whoownthatnpmaccount --help
 ```
+
+Thanks [@mdluo](https://github.com/mdluo) for the idea :)
