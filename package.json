@@ -1,5 +1,5 @@
 {
-  "name": "who-own-that-npm-account",
+  "name": "whoistheowner",
   "version": "1.0.0",
   "description": "CLI to find out the owner of a given NPM account",
   "repository": {
@@ -9,7 +9,7 @@
   "main": "index.js",
   "license": "MIT",
   "bin": {
-    "whoownthatnpmaccount": "./cli.js"
+    "whoistheowner": "./cli.js"
   },
   "dependencies": {
     "cheerio": "^1.0.0-rc.10",
